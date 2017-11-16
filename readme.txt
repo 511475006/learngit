@@ -5,3 +5,5 @@ Git tracks changes of files.
 Add master point
 Creating a new branch is quick.
 test --no-ff
+test master
+
